@@ -9,3 +9,5 @@ In order to compile it yourself you need to follow the next steps:
 5. In cmd type: pyinstaller --onefile --noconsole **NAME_OF_YOUR_SCRIPT**.py 
 6. Copy the resources folder in the newly created dist folder
 7. Enjoy
+
+If you just want to run the app, download both gui.exe and the resources folder and store them in the same folder
