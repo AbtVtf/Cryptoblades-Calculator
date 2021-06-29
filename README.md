@@ -6,6 +6,6 @@ In order to compile it yourself you need to follow the next steps:
 2. pip install pycoingecko
 3. pip install pillow
 4. Open the folder where you have stored the script and open a cmd in the folder
-5. In cmd type pyinstaller --onefile --noconsole **NAME_OF_YOUR_SCRIPT**.py 
+5. In cmd type: pyinstaller --onefile --noconsole **NAME_OF_YOUR_SCRIPT**.py 
 6. Copy the resources folder in the newly created dist folder
 7. Enjoy
